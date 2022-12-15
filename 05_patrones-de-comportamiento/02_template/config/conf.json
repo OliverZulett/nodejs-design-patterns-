@@ -1,0 +1,8 @@
+{
+   "postgres": {
+      "port": "33452",
+      "url": "123.345.434",
+      "password": "234jfdshjgy$%&",
+      "user": "adminSystem"
+   }
+}
